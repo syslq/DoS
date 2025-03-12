@@ -7,7 +7,7 @@ if [ -z "$1" ]; then
 fi
 
 TARGET_IP=$1
-PORT=80
+PORT=8080
 
 # Check if required tools (LOIC and Hping3) are installed
 echo "Checking if tools are installed..."
