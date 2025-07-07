@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Check if the user provided the target IP address
+# Check if the user provided the target IP addressss
 if [ -z "$1" ]; then
   echo "Please enter the target IP address."
   exit 1
